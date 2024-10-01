@@ -1,0 +1,11 @@
+**/__pycache__
+**/sample
+**/.devcontainer
+*.pyc
+.env
+**/smkdev_env
+.json
+.log
+.txt
+env/
+**/testing
